@@ -45,6 +45,19 @@ An end-to-end data analytics project focused on exploring, cleaning, analyzing, 
 
 [View Project](https://github.com/NgonCarine/Big-Data-Analytics-Project)
 
+### 💻 Software Engineering Project – Java
+
+A university software engineering project developed
+using Java, applying object-oriented programming
+principles and software design concepts.
+
+**Technologies:** Java, IntelliJ IDEA, Git.
+
+**Key Concepts:** Object-Oriented Programming (OOP),
+Software Design, UML.
+
+**View Project:** [GitHub Repository](LINK_TO_BE_ADDED)
+
 ## 🌱 Currently Learning
 
 - Software Engineering
