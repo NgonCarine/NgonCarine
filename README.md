@@ -36,6 +36,22 @@ I'm interested in software development, programming, data analytics, and modern 
 - Eclipse IDE
 - Jupyter Notebook
 
+- 
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,idea,eclipse,jupyter" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" height="48" />
+</p>
+
+
 ## 📂 Featured Projects
 
 ### 📊 Big Data Analytics Project – Sample Superstore
