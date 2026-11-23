@@ -29,10 +29,11 @@ I'm interested in software development, programming, data analytics, and modern 
 - Matplotlib
 - Tableau
 
-**Development Tools**
+### Development Tools
 - Git & GitHub
 - Visual Studio Code
 - IntelliJ IDEA
+- Eclipse IDE
 - Jupyter Notebook
 
 ## 📂 Featured Projects
